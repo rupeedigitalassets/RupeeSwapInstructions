@@ -21,13 +21,13 @@
 
 6.	Download the New Rupee Wallet from this location. 
 
-        https://github.com/rupeedigitalassets/Rupee-Core/releases
+      https://github.com/rupeedigitalassets/Rupee-Core/releases
 
-        New Windows Wallet
-        https://github.com/rupeedigitalassets/Rupee-Core/files/2011686/RupeeCore-QT-.Windows.zip
+      New Windows Wallet
+      https://github.com/rupeedigitalassets/Rupee-Core/files/2011686/RupeeCore-QT-.Windows.zip
 
-        New MAC Wallet
-        https://github.com/rupeedigitalassets/Rupee-Core/files/2011693/RupeeCore-QT-.Mac.zip
+      New MAC Wallet
+      https://github.com/rupeedigitalassets/Rupee-Core/files/2011693/RupeeCore-QT-.Mac.zip
 
 7.	 Fill up the following form.
 

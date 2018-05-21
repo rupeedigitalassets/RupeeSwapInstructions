@@ -4,6 +4,11 @@
 2.	Download old wallets from this loction. 
 https://github.com/rupeedigitalassets/RUPEE/releases
 
+Old Windows Wallet
+https://github.com/rupeedigitalassets/RUPEE/files/1920063/Rupee-.Windows.zip
+
+Old MAC Wallet
+https://github.com/rupeedigitalassets/RUPEE/files/1920062/RUPEE-.Mac.zip
 
 3.	Back up your old QT wallet. ( Just in case).
 
@@ -17,6 +22,12 @@ RKehUbkBK8fzPs57aJDJ33F6jMYSDiKvzt
 6.	Download the New Rupee Wallet from this location. 
 
 https://github.com/rupeedigitalassets/Rupee-Core/releases
+
+New Windows Wallet
+https://github.com/rupeedigitalassets/Rupee-Core/files/2011686/RupeeCore-QT-.Windows.zip
+
+New MAC Wallet
+https://github.com/rupeedigitalassets/Rupee-Core/files/2011693/RupeeCore-QT-.Mac.zip
 
 7.	 Fill up the following form.
 

@@ -4,10 +4,10 @@
 2.	Download old wallets from this loction. 
       https://github.com/rupeedigitalassets/RUPEE/releases
 
-      Old Windows Wallet
+      RUPEE 1.0  Windows Wallet
       https://github.com/rupeedigitalassets/RUPEE/files/1920063/Rupee-.Windows.zip
 
-      Old MAC Wallet
+      RUPEE 1.0  MAC Wallet
       https://github.com/rupeedigitalassets/RUPEE/files/1920062/RUPEE-.Mac.zip
 
 3.	Back up your old QT wallet. ( Just in case).

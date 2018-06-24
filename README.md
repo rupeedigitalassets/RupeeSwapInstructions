@@ -1,5 +1,5 @@
 
-1.	Move all your coins from exchanges, to your QT Wallet, either windows, MAC, or Linux. You will need old RUPEE 1.0 wallets for that
+1.	Move all your coins from  your QT Wallet/Exchanges to Swap address below, either windows, MAC, or Linux. You will need old RUPEE 1.0 wallets for that. If you have coins on exhcnages, there is no need to download RUpee 1.0 Wallet, simply send the coins from these exchanges to swap address     RKehUbkBK8fzPs57aJDJ33F6jMYSDiKvzt
 
 2.	Download old wallets from this loction. 
       https://github.com/rupeedigitalassets/RUPEE/releases
